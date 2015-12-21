@@ -1,0 +1,43 @@
+header{
+
+   position:relative;
+   left:200px;
+
+}
+
+div{
+
+ 
+   position:relative;
+   left:300px;
+
+}
+
+#monk{
+
+    float:left;
+
+}
+
+#quote{
+  
+
+    height:300px;
+    width:500px;
+    
+}
+
+#quote p{
+
+    font-family: "Arial","Verdana","Times";
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+#buttons{
+
+   clear:both;
+
+}
+
