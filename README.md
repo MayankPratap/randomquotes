@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Random Quote Generator And Tweeter
 
 ## Introduction
@@ -11,3 +12,7 @@
 
 
 
+=======
+# randomquotes
+Web app to generate programming quotes and tweet them.
+>>>>>>> 7812258220918abfdc434cb3f0702134f712978d
