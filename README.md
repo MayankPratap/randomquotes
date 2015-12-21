@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Random Quote Generator And Tweeter
 
 ## Introduction
@@ -9,10 +8,4 @@
 ## How to use
 
    Go to http://codepen.io/MayankPratap/full/NxNJpd/
-
-
-
-=======
-# randomquotes
-Web app to generate programming quotes and tweet them.
->>>>>>> 7812258220918abfdc434cb3f0702134f712978d
+   
